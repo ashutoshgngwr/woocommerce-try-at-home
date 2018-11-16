@@ -1,5 +1,5 @@
-# woocommerce-try-at-home
-A rather simple plugin to calculate a reverse fee to let users choose items to buy before making full payments.
+# WooCommerce Try At Home
+A rather simple plugin to calculate a reverse fee to let users try items without making full payments.
 
 Try at Home fee is calculated base on following formula  
 
